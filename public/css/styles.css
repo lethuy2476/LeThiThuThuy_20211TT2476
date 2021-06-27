@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    background:#ebebeb;
+}
+.navbar-light .navbar-nav .navbar-link {
+    color: black;
+    padding-right: 60px;
+}
+.navbar-light .navbar-nav .navbar-link {
+    padding-left: 70px;
+    padding-right: 70px;
+}
+.banner {
+    color: white;
+}
+.button-add{
+    color:white;
+    background-color: black;
+    border: solid 1px black;
+    padding: 5px 10px;
+    text-decoration: none ;
+    font-size: 0.75rem
+}
+.item{
+    padding-right: 30px ;
+    text-decoration: none;
+    color: black;
+ }
